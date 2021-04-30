@@ -1,0 +1,30 @@
+{
+	"title" : "TicTacToe with React.js",
+	"slug" : "tictactoe-react",
+	"status": "published",
+	"translations": ["es", "us"],
+	"video-id": "https://www.youtube.com/watch?v=MQonrbY8Ezg&list=PLx0T51ydRO_7qabdLlT69keo68WmbXkrB",
+	"solution": "https://bitbucket.org/codingacademy/tictactoe-react",
+	"preview": "https://github.com/breatheco-de/exercise-tictactoe-react/blob/master/thumb.png?raw=true",
+	"difficulty": "easy",
+	"syntax": "react.js",
+	"technologies": ["react.js", "javascript"],
+	"duration" : 16,
+	"description" : "Create a simple tictactoe 2 player game (no AI), using the React.js framework",
+	"talents": [
+		{ "badge": "tag-master", "points": 10 },
+		{ "badge": "select-everything", "points": 5 },
+		{ "badge": "be-dry", "points": 5 },
+		{ "badge": "css-inspector", "points": 5 },
+		{ "badge": "source-inspector", "points": 10 },
+		{ "badge": "abc", "points": 5 },
+		{ "badge": "functional-developer", "points": 10 },
+		{ "badge": "js-inspector", "points": 10 },
+		{ "badge": "sass-master", "points": 5 },
+		{ "badge": "git-creator", "points": 5 },
+		{ "badge": "the-console", "points": 10 },
+		{ "badge": "mouse-god", "points": 5 },
+		{ "badge": "conditionals", "points": 5 },
+		{ "badge": "looper", "points": 5 }
+	]
+}
