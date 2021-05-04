@@ -1,4 +1,15 @@
 @import "~bootstrap/scss/bootstrap.scss";
+html, body, #app {
+    height:100%;
+    margin: 0px;
+    }
+
+.padre {
+    height:100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
 
 .contenedor {
     background: rgb(95, 95, 95);
